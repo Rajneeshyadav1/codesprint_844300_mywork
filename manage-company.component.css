@@ -1,0 +1,36 @@
+/* 
+      .sub-button{
+            color:white;
+            background-color: rgb(17, 204, 48);
+      }
+      ul{
+          text-decoration: none;
+          list-style-type: none;
+          overflow: hidden;          
+          background-color: black;
+      }
+      input ::-webkit-inner-spin-button,::-webkit-outer-spin-button{
+          -webkit-appearance: none;
+          margin: 0;
+      }
+       ul li{
+           
+          display: block;
+          color:white;
+          float:right;
+          padding: 10px;
+      }
+      ul li a{
+          padding: 10px;
+          color: white;
+          text-decoration: none;
+
+      }
+      ul li:hover{
+          background-color: white;
+          color:black;
+      }
+      ul li a:hover{
+        text-decoration: none;
+        color:black;
+      } */
